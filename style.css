@@ -1,0 +1,165 @@
+body {
+	background-color: #50c2d9;
+	font-family: 'Epilogue', sans-serif;
+}
+
+#hbd {
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    color: white;
+}
+
+.comp {
+	color: #50c2d9;
+}
+
+.comp:hover {
+	color: white;
+}
+
+#c1 {
+	position: absolute;
+    top: 64%;
+    left: 64%;
+    margin-right: -54%;
+    transform: translate(-54%, -54%);
+}
+
+#c2 {
+	position: absolute;
+    top: 19%;
+    left: 19%;
+    margin-right: -19%;
+    transform: translate(-19%, -19%);
+}
+#c1 {
+	position: absolute;
+    top: 64%;
+    left: 64%;
+    margin-right: -54%;
+    transform: translate(-54%, -54%);
+}
+
+#c3 {
+	position: absolute;
+    top: 13%;
+    left: 13%;
+    margin-right: -13%;
+    transform: translate(-13%, -13%);
+}
+
+#c4 {
+	position: absolute;
+    top: 25%;
+    left: 25%;
+    margin-right: -25%;
+    transform: translate(-25%, -25%);
+}
+
+#c5 {
+	position: absolute;
+    top: 95%;
+    left: 95%;
+    margin-right: -95%;
+    transform: translate(-95%, -95%);
+}
+
+#c5 {
+	position: absolute;
+    top: 95%;
+    left: 95%;
+    margin-right: -95%;
+    transform: translate(-95%, -95%);
+}
+
+#c6 {
+	position: absolute;
+    top: 77%;
+    left: 17%;
+    margin-right: -17%;
+    transform: translate(-17%, -17%);
+}
+
+#c7 {
+	position: absolute;
+    top: 11%;
+    left: 51%;
+    margin-right: -51%;
+    transform: translate(-51%, -51%);
+}
+
+#c8 {
+	position: absolute;
+    top: 21%;
+    left: 51%;
+    margin-right: -51%;
+    transform: translate(-51%, -51%);
+}
+
+#c9 {
+	position: absolute;
+    top: 84%;
+    left: 34%;
+    margin-right: -14%;
+    transform: translate(-14%, -14%);
+}
+
+#c10 {
+	position: absolute;
+    top: 22%;
+    left: 92%;
+    margin-right: -92%;
+    transform: translate(-92%, -92%);
+}
+
+#c11 {
+	position: absolute;
+    top: 80%;
+    left: 80%;
+    margin-right: -80%;
+    transform: translate(-80%, -80%);
+}
+
+#c12 {
+	position: absolute;
+    top: 59%;
+    left: 99%;
+    margin-right: -99%;
+    transform: translate(-99%, -99%);
+}
+
+#c13 {
+	position: absolute;
+    top: 38%;
+    left: 57%;
+    margin-right: -38%;
+    transform: translate(-38%, -38%);
+}
+
+#c14 {
+	position: absolute;
+    top: 66%;
+    left: 36%;
+    margin-right: -56%;
+    transform: translate(-56%, -56%);
+}
+
+#c15 {
+	position: absolute;
+    top: 43%;
+    left: 3%;
+    margin-right: -13%;
+    transform: translate(-13%, -13%);
+}
+
+#c16 {
+	position: absolute;
+    top: 57%;
+    left: 7%;
+    margin-right: -7%;
+    transform: translate(-7%, -7%);
+}
